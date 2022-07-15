@@ -1,7 +1,5 @@
 <h2 align="center">Dante's Work Day Scheduler</h2>
 
----
-
 <br>
 <h3 align="center">📡 📡 Deployment Information 📡 📡</h3>
 
