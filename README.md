@@ -1,7 +1,7 @@
 <h2 align="center">Dante's Work Day Scheduler</h2>
 
 <br>
-<h3 align="center">📡 📡 Deployment Information 📡 📡</h3>
+<h3 align="center">📡 Deployment Information 📡</h3>
 
 ---
 <div align="center">
@@ -10,13 +10,20 @@
 </div>
 
 <br>
-<h3 align="center">💻 💻 Demo 💻 💻</h3>
+<h3 align="center">💻 Demo 💻</h3>
 
 ----
 https://user-images.githubusercontent.com/105169042/179297697-94140456-6cc1-4fdf-baaa-14988dcf7037.mp4
 
 <br>
-<h3 align="center">👨‍💻 👨‍💻 Development Team 👨‍💻 👨‍💻</h3>
+<h3 align="center">🔨 Usage 🔨</h3>
+
+----
+- Manage daily work tasks
+- Stay on top of future works
+
+<br>
+<h3 align="center">👨‍💻 Development Team 👨‍💻</h3>
 
 ----
 - Dante Stargiotti
